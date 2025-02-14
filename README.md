@@ -7,7 +7,7 @@ Este projeto é um script Python para testar a conexão com um servidor RabbitMQ
 
 ### 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/RabbitMQ-Connection-Tester.git
+git clone https://github.com/rodrigomariusso-devops/rabbitmq-connection-test.git
 cd RabbitMQ-Connection-Tester
 ```
 
