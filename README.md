@@ -21,7 +21,7 @@ pip install pika
 python app.py
 ```
 
-Por padrão, o script tentará se conectar ao servidor `rabbitmq.ops.fbasic.com.br` na porta `5672` usando as credenciais padrão.
+Por padrão, o script tentará se conectar ao servidor `sua.url.com` na porta `5672` usando as credenciais padrão.
 
 ### 4. Personalizar parâmetros de conexão
 Você pode fornecer argumentos personalizados para testar diferentes configurações:
